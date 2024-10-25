@@ -1,0 +1,50 @@
+.hero{
+  /*background: #b4beba;*/
+  background: #acb7bc;
+}
+
+.header{
+    font-family: "Caveat", cursive;
+}
+
+.btn{
+    background-color: #c5d2d9;
+}
+
+.footer{
+    background-color: #c5d2d9;
+    max-width: 100%;
+    position: absolute;
+    left: 0;
+    
+}
+
+/*.skills{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}*/
+
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto, auto ;
+    grid-template-rows: auto, auto ;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#copyright{
+    color: white;
+}
+
+.nav-link{
+    color: gray;
+}
+
+.nav-link:hover span {
+    color: white!important;
+}
