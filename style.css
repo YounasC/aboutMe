@@ -17,22 +17,13 @@
     left: 0;   
 }
 
-/*.table{
+.table{
     display: grid;
     grid-template-columns: 300px 300px;
     grid-template-rows: 300px 300px;
     justify-content: center;
     align-items: center; 
-}*/
-
-.table{
-    display: grid;
-    grid-template-columns: 300px 300px;
-    justify-content: center;
-    align-items: center; 
 }
-
-
 
 #copyright{
     color: white;
